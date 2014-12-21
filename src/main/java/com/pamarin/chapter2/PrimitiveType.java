@@ -10,9 +10,9 @@ package com.pamarin.chapter2;
  *
  * @author anonymous
  */
-public class HelloWorld {
-    
+public class PrimitiveType {
+ 
     public static void main(String[] args) {
-        System.out.println("Hello World 2");
+        
     }
 }
